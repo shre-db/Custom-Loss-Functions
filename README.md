@@ -2,6 +2,7 @@
 
 ![Loss Function Cover Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Plot_of_the_imaginary_error_function_Erfi%28z%29_in_the_complex_plane_from_-2-2i_to_2%2B2i_with_colors_created_with_Mathematica_13.1_function_ComplexPlot3D.svg/640px-Plot_of_the_imaginary_error_function_Erfi%28z%29_in_the_complex_plane_from_-2-2i_to_2%2B2i_with_colors_created_with_Mathematica_13.1_function_ComplexPlot3D.svg.png)
 
+## Introduction
 This repository contains a collection of custom loss functions designed for use in Artificial Neural Networks (ANNs). These loss functions are neither rigorously tested nor are regularly used in deep learning projects outside of research. The use of these custom loss functions in production is less common than standard loss functions. In many production systems, standard loss functions like Mean Squared Error (MSE) or Cross-Entropy Loss are preferred due to their simplicity and well understood properties. However, there are scenarios where custom loss functions are used in production, especially when the problem requirements demand it.
 
 ## L1 Loss
